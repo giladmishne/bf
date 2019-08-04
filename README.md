@@ -1,0 +1,3 @@
+- The `bf` module contains the main implementation, `bloom_filter.py`, and the underlying bit array, `simple_bit_array.py`.
+- test.py is a unit test for most of the functionality.
+- spell_checker.py is a driver as described in http://codekata.com/kata/kata05-bloom-filters.
